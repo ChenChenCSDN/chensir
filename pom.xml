@@ -100,7 +100,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.java.usercenter.UserCenterApplication</mainClass>
+                    <mainClass>com.java.yupao.YuPaorApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
